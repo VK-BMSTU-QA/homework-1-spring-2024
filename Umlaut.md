@@ -129,11 +129,13 @@ _Положительные кейсы_:
 2) При нажатии на кнопку "Искать" - фильтры применяются к поиску
 
 **Баг** список тегов перекрывает кнопку "Искать"
+
 ![image](https://github.com/Max425/homework-1-spring-2024/blob/Umlaut/include/bug-filter-1.png)
 
 
 **Баг** Нет валидации на корректность возраста
 **Баг** При вводе 0 в поле "До" - значение игнорируется
+
 ![image](https://github.com/Max425/homework-1-spring-2024/blob/Umlaut/include/bug-filter-2.png)
 
 
