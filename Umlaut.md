@@ -394,6 +394,7 @@ _Положительные кейсы_:
 ### Примеры доступны по ссылке:
 
 [Csat](https://umlaut-bmstu.me)
+
 ![image](https://github.com/Max425/homework-1-spring-2024/assets/102697969/6b025c2b-a391-447e-b901-d5678336d78f)
 
 _Положительные кейсы_:
