@@ -122,7 +122,7 @@ _Положительные кейсы_:
    приобретения премиума [umlaut-bmstu.me/premium](https://umlaut-bmstu.me/premium)
 
 #### Карусель
-![image](https://github.com/Max425/homework-1-spring-2024/assets/102697969/ad063f31-03ef-4745-92b5-164120fe46bc)
+<img height="500" alt="image" src="https://github.com/Max425/homework-1-spring-2024/assets/102697969/ad063f31-03ef-4745-92b5-164120fe46bc">
 
 _Положительные кейсы_:
 
@@ -357,6 +357,19 @@ _Негативные кейсы_:
 ### Примеры доступны по ссылке:
 
 [Уведомления](https://umlaut-bmstu.me)
+
+Уведомление о взаимном лайке
+
+<image
+   height="400"
+  src="https://github.com/Max425/homework-1-spring-2024/assets/102697969/d5db148f-ac73-41ef-b14d-a11a3db4befa"
+  caption="Взаимный лайк">
+
+Уведомление о новом сообщении
+
+<image
+  src="https://github.com/Max425/homework-1-spring-2024/assets/102697969/6f19d96e-cb86-49f4-9fd7-fa2894d4664b"
+  caption="Новое сообщение">
 
 _Положительные кейсы_:
 
