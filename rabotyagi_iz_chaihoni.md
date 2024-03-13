@@ -1,5 +1,6 @@
 ## Профиль донатера
 https://my-kopilka.ru/profile24
+Зайдем как донатер
 
 Логин: vilin_donater
 
@@ -20,6 +21,9 @@ https://my-kopilka.ru/profile24
 ![bug_donated](static/profile_donater/bug_donated.png)
 
 * Надпись "Подписки" съезжает вниз бокса
+
+![bug_empty_subscriptions](static/profile_donater/bug_empty_subscriptions.png)
+
 * Не подписывается "у вас нет подписок" или "вы еще ни на кого не подписаны", может
   запутать пользователя
 
@@ -57,6 +61,7 @@ https://my-kopilka.ru/profile24
 
 ## Профиль автора
 https://my-kopilka.ru/profile26
+Зайдем как автор
 
 Логин: vilin_author
 
@@ -74,7 +79,7 @@ https://my-kopilka.ru/profile26
 * Список уровней подписок
 * Лента или заглушка(поясняющая, что тут будет лента после подписки)
 
-### Баги отображения профиля донатера
+### Баги отображения профиля автора
 * В профиле отображается "Цели" хотя нет возможности их добавить, нельзя показывать пользователям
   функционал, который не работает
 
@@ -97,10 +102,6 @@ https://my-kopilka.ru/profile26
 
 ## Настройки профиля
 https://my-kopilka.ru/settings
-
-Логин: vilin_author
-
-Пароль: 1234!@#$qwerQWER
 
 ![settings_profile](static/profile_settings/settings_profile.png)
 
@@ -176,6 +177,7 @@ https://my-kopilka.ru/profile26.
 ![bug_button_profile](static/profile_settings/bug_button_profile.png)
 
 ## Пост (создание, изменение, удаление)
+Зайдем как автор
 
 Логин: vilin_author
 
@@ -241,9 +243,6 @@ https://my-kopilka.ru/profile26.
 пост пропадает
 
 ### Навбар\Хедер
-Логин: vilin_author
-
-Пароль: 1234!@#$qwerQWER
 
 1. **Изначальный вид хедера**
 
@@ -280,13 +279,7 @@ https://my-kopilka.ru/feed
 https://my-kopilka.ru/feed
 ![feed](static/feed/feed.png)
 
-Подготовка:
-
-Логин: vilin_author
-
-Пароль: 1234!@#$qwerQWER
-
-необходимо изначально подписаться на двух авторов через поиск авторов и переход на страницу автора.
+Подготовка: необходимо изначально подписаться на двух авторов через поиск авторов и переход на страницу автора.
 
 Должны отображаться:
 * **Доступные посты**
