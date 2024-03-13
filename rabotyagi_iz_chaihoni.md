@@ -531,22 +531,6 @@ https://my-kopilka.ru/feed
 2. **Недетерминированный порядок тегов в посте (скорее недостаток), пример до и после перезагрузки страницы**:
 ![wrongOrderTags1](/static/tags/wrongOrderTags1.png) 
 ![wrongOrderTags2](/static/tags/wrongOrderTags2.png)
-3. **Недетерминированный порядок постов в ленте по тегам (нет сортировки по дате)**:
-![wrongPostsOrder1](/static/tags/wrongPostsOrder1.png)
-![wrongPostsOrder2](/static/tags/wrongPostsOrder2.png)
-4. **Поплыла верстка navbara на mozilla**:
-![badNavbar](/static/tags/badNavbar.png)
-5. **Сломанный поиск по тегам для аккаунтов не автора (не отображается список постов по тегу у донатера в ленте постов по тегу)**:
+3. **Сломанный поиск по тегам для аккаунтов не автора (не отображается список постов по тегу у донатера в ленте постов по тегу)**:
 ![wrongSearch1](static/tags/wrongSearch1.png)
 ![wrongSearch2](static/tags/wrongSearch2.png)
-
-### Негативные кейсы
-1. **Ввод zalgo текста в названии тега**:
-![zalgoCheck](/static/tags/zalgoCheck.png)
-**Результат**:
-![zalgoResult](/static/tags/zalgoResult.png)
-2. **Попытка js-инъекции**:
-![jsInjCheck](/static/tags/jsInjCheck.png)
-**Результат (код не отработал)**:
-![jsInjResult](/static/tags/jsInjResult.png)
-
