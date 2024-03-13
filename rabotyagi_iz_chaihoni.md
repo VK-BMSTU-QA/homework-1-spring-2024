@@ -430,8 +430,6 @@ https://my-kopilka.ru/feed
 
 1. Сообщения в донатах нигде не отображаются
 
-![img.png](static/donates/zalgoTextDonate.png)
-
 ## Подписки [Страница автора](https://my-kopilka.ru/profile28)
 
 ### Положительные кейсы
