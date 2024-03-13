@@ -232,10 +232,6 @@ https://my-kopilka.ru/profile26.
 
 ![bug_photo_attachment_2](static/post_crud/bug_photo_attachment_2.png)
 
-* Нет ограничения на длину тега.
-
-![bug_tag_len.png](static/post_crud/bug_tag_len.png)
-
 **3. Удаление поста** 
 * После нажатия на кебаб-меню у поста появляется выбор "удалить пост". И после нажатия на нее
 пост пропадает
@@ -541,6 +537,8 @@ https://my-kopilka.ru/feed
 - сломанный поиск по тегам для не аккаунтов автора:
 ![alt text](static/tags/image-19.png)
 ![alt text](static/tags/image-20.png)
+- нет ограничения на длину тега.
+![bug_tag_len.png](static/post_crud/bug_tag_len.png)
 
 ## Негативные кейсы
 - ввод zalgo текста в названии тега:
