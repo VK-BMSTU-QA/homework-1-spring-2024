@@ -505,10 +505,16 @@ https://my-kopilka.ru/feed
 
 
 ### Баги
-1. Можно открыть аналитику будучи залогиным донтаером, что как будто бы не имеет смысла
+1. Можно открыть аналитику будучи залогиненым как донатер, что как будто бы не имеет смысла
 
 ## Теги
 ### Положительные кейсы
+
+Зайдем как автор
+
+Логин: vilin_author
+
+Пароль: 1234!@#$qwerQWER
 
 1. **Создание поста с одним тегом**: 
 ![oneTagCheck](/static/tags/oneTagCheck.png) 
@@ -527,6 +533,10 @@ https://my-kopilka.ru/feed
 **Результат**:
 ![goToTagResult](/static/tags/goToTagResult.png)
 5. **Регистрируемся или автроризуемся за донатера, пытаемся посмотреть его ленту по тегу**:
+Логин: vilin_donater
+
+Пароль: 1234!@#$qwerQWER
+
 ![findTagCheck](/static/tags/findTagCheck.png)
 **Результат**:
 ![findTagResult](/static/tags/findTagResult.png)
