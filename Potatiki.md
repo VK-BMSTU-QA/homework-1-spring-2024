@@ -44,7 +44,7 @@
    ![image](https://github.com/khristina455/homework-1-spring-2024/assets/63557586/ccb6662c-7d19-4849-9b4a-dcfbc1c6554f)
 
 > [!WARNING]
-> 3. [БАГ] Проверить отображение названий у карточек при масштабах: 80%, 75%, 33%.
+> 3. [БАГ] Проверить отображение названий у карточек при разных масштабах.
 
    ![image](https://github.com/khristina455/homework-1-spring-2024/assets/63557586/2291625f-0979-457c-878b-f6a64a6959c9)
 
