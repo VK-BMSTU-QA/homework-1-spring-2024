@@ -1,4 +1,21 @@
-# [Ссылка на проект](https://formhub.site/forms)
+# Домашнее задание 1 по курсу QA команды Komisaki
+
+## Состав команды
+- Константин Горшков
+- Александр Ларин
+- Кирилл Лукьянов
+
+## Тестовое окружение 
+* Windows, Chrome 122.0.6261.12, 
+* Windows, Yandex 24.3.209, 
+* Ubuntu 22.4, Chrome 106.0.4998.76
+
+## Тестовый аккаунт:
+_email_: ```tester@test.com```
+
+_password_: ```password```
+
+### [Ссылка на проект](https://formhub.site/forms)
 
 # Логин
 
